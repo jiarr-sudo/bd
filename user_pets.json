@@ -1,13 +1,10 @@
-{
-  "data":
- [
+[
   {
     "id": 1,
     "userName": "Leanne Graham",
     "petName": "Bret",
     "petImage": "https://cdn.shibe.online/shibes/04be82add971f2b8490b5ec2308d3426e8494ad9.jpg",
     "isFriendly": true,
-    "Paid": false,
-  },
- ]
-}
+    "Paid": false
+  }
+]
